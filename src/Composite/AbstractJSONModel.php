@@ -1,18 +1,11 @@
 <?php
-<<<<<<< HEAD
 namespace App\Composite;
-=======
-namespace App\Models;
->>>>>>> bb5cc87b87f44a2de5d5433d7543e591eea27bc9
 
 /**
  * Class AbstractJSONModel
  * This class plays the role of the Composite in which that you can compose
-<<<<<<< HEAD
  * a tree structure of different JSON Models.
-=======
  * a tree structure of different JSON Models. If you want to
->>>>>>> bb5cc87b87f44a2de5d5433d7543e591eea27bc9
  * @package App\Models
  */
 abstract class AbstractJSONModel
