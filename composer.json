@@ -1,0 +1,12 @@
+{
+  "name": "firefoxegy/composite",
+  "description": "applying the composite design patter on the JSON Models",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mohammed Yahia",
+      "email": "firefoxegy@gmail.com"
+    }
+  ]
+}
