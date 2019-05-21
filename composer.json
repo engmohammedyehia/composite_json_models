@@ -8,5 +8,10 @@
       "name": "Mohammed Yahia",
       "email": "firefoxegy@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
 }
