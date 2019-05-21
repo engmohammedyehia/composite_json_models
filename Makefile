@@ -1,6 +1,6 @@
 .PHONY: install
 install: ## Install dependencies
-	@composer install && composer dump-autoload && php index.php
+	@composer install && composer dump-autoload
 
 .PHONY: run
 run: ## IRun the demo
