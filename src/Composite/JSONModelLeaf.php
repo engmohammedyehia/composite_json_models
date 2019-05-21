@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 namespace App\Composite;
+=======
+namespace App\Models;
+>>>>>>> bb5cc87b87f44a2de5d5433d7543e591eea27bc9
 
 class JSONModelLeaf extends AbstractJSONModel
 {
